@@ -1,0 +1,30 @@
+{
+  "name": "fake-productivity",
+  "version": "1.0.0",
+  "description": "A global CLI to quickly output some unit tests (all succeed!), some \"network\" mapping, or other stuff to make you look busy somehow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {
+      "fakeit": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaJuukes/fake-productivity.git"
+  },
+  "keywords": [
+    "productive",
+    "fake",
+    "boss",
+    "productivity",
+    "fake-productivity"
+  ],
+  "author": "DaJuukes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaJuukes/fake-productivity/issues"
+  },
+  "homepage": "https://github.com/DaJuukes/fake-productivity#readme"
+}
