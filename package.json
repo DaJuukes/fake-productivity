@@ -1,7 +1,7 @@
 {
   "name": "fake-productivity",
   "version": "1.0.0",
-  "description": "A global CLI to quickly output some unit tests (all succeed!), some \"network\" mapping, or other stuff to make you look busy somehow.",
+  "description": "A global CLI to quickly output some fake unit tests, some \"network\" mapping, or other stuff to make you look busy somehow.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
